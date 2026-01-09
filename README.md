@@ -2,7 +2,7 @@
 Repository for PHYS 152 (Physics and Machine Learning) at UCSC in Winter 2026
 
 We will use the Git version control system to manage some of the course content, specifically lecture notebooks and homework assignments
-You can viewing the notebooks directly on github, but you can't execute the cells, and not all of the graphics will render correctly.  
+You can viewing the notebooks directly on github, but you can't execute the cells, and not all of the graphics will render correctly.
 To interact more fully with the content you can use JupyterLab locally or Google Colab remotely.
 (Some people have had good experience with VS Code, too.)
 
